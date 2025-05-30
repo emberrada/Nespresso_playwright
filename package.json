@@ -1,0 +1,17 @@
+{
+  "name": "nespressp_play",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "pageObjectChrome": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1"
+  }
+}
